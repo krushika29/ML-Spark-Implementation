@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.apache.hadoop:hadoop-yarn-client:2.7.0-mapr-1509">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-client/2.7.0-mapr-1509/hadoop-yarn-client-2.7.0-mapr-1509.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-client/2.7.0-mapr-1509/hadoop-yarn-client-2.7.0-mapr-1509-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/apache/hadoop/hadoop-yarn-client/2.7.0-mapr-1509/hadoop-yarn-client-2.7.0-mapr-1509-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
